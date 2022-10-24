@@ -10,3 +10,5 @@ gives 85% and 87% testing accuracy. Results of different optimizers and hyper
 parameter sets are discussed. Attempt via automatic machine learning function of
 H2O gives instead 91% test accuracy, and indicates that gradient boosting machine
 is better model.
+
+For detailed report please see "Identify Topological Material with Machine Learning - Report.pdf"
